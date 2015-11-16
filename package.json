@@ -1,0 +1,23 @@
+{
+  "name": "parse-shim",
+  "version": "1.0.0",
+  "description": "Requires the right version of Parse JS SDK for a particular platform",
+  "main": "parse-shim.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/HustleInc/parse-shim"
+  },
+  "keywords": [
+    "parse",
+    "shim",
+    "require",
+    "load",
+    "browser",
+    "node"
+  ],
+  "author": "Tyler Brock",
+  "license": "MIT"
+}
