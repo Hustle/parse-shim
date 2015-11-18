@@ -19,5 +19,5 @@ npm install --save parse-shim
 
 ### Usage
 ```js
-var Parse = require('parse-shim');
+var Parse = require('parse-shim'); // works in browser or Node.JS environment
 ```
