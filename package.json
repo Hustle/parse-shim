@@ -21,6 +21,6 @@
   "author": "Tyler Brock",
   "license": "MIT",
   "dependencies": {
-    "parse": "ParsePlatform/Parse-SDK-JS#1.7.0-rc1"
+    "parse": "ParsePlatform/Parse-SDK-JS#v1.7.0-rc1"
   }
 }
