@@ -1,6 +1,6 @@
 {
   "name": "parse-shim",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Requires the right version of Parse JS SDK for a particular platform",
   "main": "parse-shim.js",
   "scripts": {
@@ -21,6 +21,6 @@
   "author": "Tyler Brock",
   "license": "MIT",
   "dependencies": {
-    "parse": ">=1.6.0"
+    "parse": "ParsePlatform/Parse-SDK-JS#1.7.0-rc1"
   }
 }
