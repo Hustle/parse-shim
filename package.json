@@ -21,6 +21,6 @@
   "author": "Tyler Brock",
   "license": "MIT",
   "dependencies": {
-    "parse": ">= 1.6.0 || 1.7.0-rc1"
+    "parse": ">= 1.6.0"
   }
 }
