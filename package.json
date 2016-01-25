@@ -1,6 +1,6 @@
 {
   "name": "parse-shim",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Requires the right version of Parse JS SDK for a particular platform",
   "main": "parse-shim.js",
   "scripts": {
