@@ -1,6 +1,6 @@
 {
   "name": "parse-shim",
-  "version": "1.0.6",
+  "version": "1.0.6.1",
   "description": "Requires the right version of Parse JS SDK for a particular platform",
   "main": "parse-shim.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HustleInc/parse-shim"
+    "url": "https://github.com/TouchInnovation/parse-shim.git"
   },
   "keywords": [
     "parse",
@@ -21,6 +21,6 @@
   "author": "Tyler Brock",
   "license": "MIT",
   "dependencies": {
-    "parse": ">= 1.6.0"
+    "parse": "^1.9.2"
   }
 }

@@ -2,9 +2,10 @@
 Requires the right version of Parse JS SDK for a particular platform.
 
 
-### Raison d'État
-Versions of the Parse JS SDK >=1.6.0 split the codebase into two requireables:
+### Why?
+Versions of the Parse JS SDK >=1.9.0 split the codebase into three requireables:
 
+ - The global scope parse in cloud code
  - The version of parse for the browser `require('parse')`
  - The version of parse for node `require('parse/node')`
 
