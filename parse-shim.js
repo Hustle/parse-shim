@@ -1,6 +1,6 @@
 // This is a shim that loads the correct version of parse for a given environment
 
-const isNode = require('detect-node')
+const isNode = require('detect-is-node')
 
 if ( typeof Parse !== 'undefined' && Parse ) {
   module.exports = Parse;
