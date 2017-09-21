@@ -21,6 +21,7 @@
   "author": "Tyler Brock",
   "license": "MIT",
   "dependencies": {
+    "detect-node": "^2.0.3",
     "parse": "^1.9.2"
   }
 }
