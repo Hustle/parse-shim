@@ -21,6 +21,6 @@
   "author": "Tyler Brock",
   "license": "MIT",
   "dependencies": {
-    "parse": ">= 1.6.0"
+    "parse": "^1.6.0"
   }
 }
